@@ -9,4 +9,5 @@ My Q Learning Implementation of Frozen Lake Environment using Open AI Gym
 
 ## CartPole Q-Learning
 My Q Learning Implementation of CartPole Environment using Open AI Gym
-![][cartpole.gif]
+
+![](cartpole.gif)
